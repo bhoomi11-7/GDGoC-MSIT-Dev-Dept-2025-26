@@ -8,4 +8,4 @@ The app features a clean UI with a glass-morphism quiz box, blurred aesthetic ba
   - style.css  
   - script.js
   - Deployed on netlify
-https://task2-quiz.netlify.app/
+https://task-2-quiz.netlify.app/
